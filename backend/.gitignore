@@ -1,0 +1,21 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Base de datos SQLite
+*.sqlite3
+db.sqlite3
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
