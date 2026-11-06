@@ -8,7 +8,7 @@ Proyecto desarrollado siguiendo el manual *“Desarrollo Full Stack con Django y
 
 ## 📌 Enlace al Repositorio
 
-* **GitHub Repository:** `https://github.com/TU_USUARIO/pixelvault-api` *(Reemplaza con el enlace final a tu repositorio)*
+* **GitHub Repository:** `https://github.com/juanZantillan13/Practica-4`
 
 ---
 

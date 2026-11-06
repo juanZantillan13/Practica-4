@@ -165,7 +165,7 @@ def build_pdf():
             Paragraph("<b>Token Lifetime:</b> 2 horas (<code>ACCESS_TOKEN_LIFETIME</code>)", body_style)
         ],
         [
-            Paragraph("<b>Repositorio GitHub:</b> <font color='#2563eb'><u>https://github.com/TU_USUARIO/pixelvault-api</u></font><br/><i>(Nota: Repositorio inicializado en local con Git, listo para enlazar a tu cuenta remota)</i>", body_style),
+            Paragraph("<b>Repositorio GitHub:</b> <font color='#2563eb'><u>https://github.com/juanZantillan13/Practica-4</u></font>", body_style),
             Paragraph("<b>Estado de Seguridad:</b> 2 Vulnerabilidades Subsanadas ✅", badge_style)
         ]
     ]
